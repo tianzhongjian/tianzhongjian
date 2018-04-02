@@ -1,0 +1,10 @@
+<?php
+namespace Home\Controller;
+use Controller;
+class you{
+	public function checkyouName(){
+		$name = '田中建';
+		var_dump($name);
+	}
+}
+
