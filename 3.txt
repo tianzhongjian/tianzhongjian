@@ -1,0 +1,4 @@
+<?php
+ public function addGit(){
+ 	$string = 'nitemadeshibushishabi';
+ }
